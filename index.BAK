@@ -15,6 +15,18 @@
 <center>
   <img src="images/samurailogo.png" width="391" height="90" alt="" title=""/><br>
   <a href="http://www.ipsj.or.jp/english/index.html"><img src="images/IPSJ_logoC_M.gif" title="logo_ipsj" width="200"/></a><br>
+<a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
+<a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
+<br>
+<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
+<br>
+<a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
+<a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
+<a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a>
+<a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a>
+<a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
+<a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
+<a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -44,7 +56,7 @@ aiming to cultivate the younger generation so they can become leading researcher
 <a href="http://www.ipsj.or.jp/event/samuraicoding/2014-15/">Results in 2014-15</a>, 
 <a href="http://www.ipsj.or.jp/event/samuraicoding/2015-16/">Results in 2015-16</a>, 
 and 
-<a href="http://www.ipsj.or.jp/event/samuraicoding/2016-17/">Results in 2017-18</a>).
+<a href="http://www.ipsj.or.jp/event/samuraicoding/2016-17/">Results in 2016-17</a>).
       <p>6th SamurAI Coding will be held between October 2017 and March 2018.
 	Contestants will compete their engineering skills for AI game programming.
 	Winners of the preliminary round will move on to the final round, which will be held on 14th March 2018 collocated with <a href="http://www.ipsj.or.jp/event/taikai/80/">80th IPSJ National Convention</a> at <a href="https://www.waseda.jp/fsci/en/access/">Waseda University, Nishiwaseda Campus, Tokyo</a>.
@@ -98,8 +110,9 @@ and
     <section id="news">
       <h2>News</h2>
       <ul>
+<li>October 15: Sponsors and supporters have been added. Thank you for your supports.  
           <li>September 30: <a href="software.html">The preliminary game software</a> has been published.
-          <li>September 30: <a href="rules">The preliminary game rules have been published.
+          <li>September 30: <a href="rules.html">The preliminary game rules</a> have been published.
           <li>July 18: This preliminary website has been launched.
       </ul>
     </section>
@@ -153,17 +166,27 @@ All World Final contestants will be presented on the contest site.
     <section id="importantdates">
       <h2>Important Dates</h2>
       <ul>
-      	<li>Rule announcement: Sep-Oct 2017</li>
-<li>Due of call for challenge of online preliminary round: AoE</li>
-<li>Result announcement of call for challenge of online preliminary round: around AOE. <!-- 16 teams will be selected for the world final. Among them, up to five teams will be selected in consideration of diversity and geographical distribution. --> </li>
+      	<li>Preliminary rule announcement: Sep 30, 2017</li>
+<li>Due of call for challenge of online preliminary round: Jan-Feb, 2018 (TBD)</li>
+<li>Result announcement of call for challenge of online preliminary round: Feb, 2018 (TBD) <!-- 16 teams will be selected for the world final. Among them, up to five teams will be selected in consideration of diversity and geographical distribution. --> </li>
         <li>World final round in Nishiwaseda, Tokyo (collocated with 80th IPSJ National Convention at <a href="https://www.waseda.jp/fsci/en/access/">Waseda University, Nishiwaseda Campus, Tokyo</a>): March 14, 2018</li>
       </ul>
     </section>
 
 <section id="game">
       <h2>Game and AI</h2>
-<p>Contestants compete on their design and engineering skills of algorithms and AI strategies in addition to programming skills. See details at Game Rules.</p>
+<p>Contestants compete on their design and engineering skills of 
+algorithms and AI strategies in addition to programming skills. 
+See details at <a href="rules.html">Game Rules of SamurAI Jockey</a>.
+SamurAI Jockey is a game played by two players. 
+Two players controlled by AI programs, changing their positions step by step, 
+compete for time to goal in a course with obstacles.
+</p>
+
 <p>Contestants can choose a certain programming language among various major languages. </p>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:76.494%;"><iframe src="https://streamable.com/s/bgfof/anxreb" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
 </section>
     <section class="centered">
       <!-- <img src="snapshot.png" width=60% /> -->
@@ -205,23 +228,51 @@ Noriko Fukazawa, Hiroshi Suzuki</p>
       	<td width="300">
       	  <section id="sponsors">
             <h3>Gold Sponsors</h3>
-<p>
-</p>
+            <p>e-Seikatsu Co., Ltd.<br>
+            <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a></p>
+          <p>Hitachi, Ltd.<br>
+            <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a></p>
             <h3>Supporters</h3>
-<p>
+
+<p>Japan Registry Services Co., Ltd.<br>
+<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
 </p>
+
 <h3>Media Sponsors</h3>
-<p>
-</p>
+
       	</td>
       	<td>
       	  <section id="supporters">
       	    <h3>Supporters</h3>
 
             <p class="smaller">
-Department of Computer Science and Engineering, Waseda University
-<br>
-<br>
+IEEE Japan Office<br>
+<a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a><br><br>
+
+Information Technology Promotion Agency, Japan<br>
+<a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
+<br><br>
+
+International Information Science Foundation<br><br>
+
+Japan Electronics and Information Technology Industries Association<br>
+<a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a><br><br>
+
+Japan Information Technology Services Industry Association<br>
+<a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a><br><br>
+
+Japan Society for Software Science and Technology<br>
+<a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a><br><br>
+
+The Institute of Electronics, Information and Communication Engineers<br>
+<a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
+<br><br>
+
+The Japanese Society for Artificial Intelligence<br>
+<a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a><br><br>
+
+The Ministry of Education, Culture, Sports, Science and Technology
+<br><br>
              </p>
           </section>
       	</td>
@@ -229,7 +280,6 @@ Department of Computer Science and Engineering, Waseda University
     </table>
   </div>
 </footer>
-
 
   </body>
 </html>

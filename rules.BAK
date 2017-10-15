@@ -14,28 +14,18 @@
 <center>
   <img src="images/samurailogo.png" width="391" height="90" alt="" title=""/><br>
   <a href="http://www.ipsj.or.jp/english/index.html"><img src="images/IPSJ_logoC_M.gif" title="logo_ipsj" width="200"/></a><br>
-<!--
 <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
-<a href="http://www.team-lab.com/"><img src="images/teamLab.png" width="110"/></a>
 <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
-<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
-<a href="http://recochoku.jp/"><img src="images/RecoChoku.png" width="172"/></a>
 <br>
 <a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
-<a href="http://www.yahoo.co.jp/"><img src="images/Yahoo.gif" width="95"/></a>
-<a href="http://www.gstylus.co.jp/"><img src="images/gyaku_logo.jpg" width="75"/></a> 
 <br>
-<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
 <a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
 <a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a>
 <a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a>
-<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
-<a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="116"/></a>
--->
 </center>
   <nav id="global">
       <ul>
@@ -64,13 +54,16 @@ compete for time to goal in a course with obstacles.
 	    Outline of the Samurai 3x3 Game</a></li>
 -->
 	<li><a href="rule-en.pdf">
-	    Rule Details (version September 17, 2016)</a></li>
+	    Rule Details (version September 17, 2017)</a></li>
 <!--
 	<li>Tournament rules are described
 	  in <a href="preliminary.html">the preliminary round page</a>
 	  and <a href="final.html">the final round page</a>.</li>
 -->
       </ul>
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:76.494%;"><iframe src="https://streamable.com/s/bgfof/tmcrrz" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
     </section>
     <!--#include virtual="footer.html" -->
 

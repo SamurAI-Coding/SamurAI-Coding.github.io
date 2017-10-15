@@ -64,6 +64,7 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
+        <li>10月15日: スポンサー、協賛団体を追加掲載しました。ご支援に御礼申し上げます。
         <li>9月30日: <a href="software-jp.html">ゲームソフトウェア暫定版</a>を公開しました。
         <li>9月30日: <a href="rules-jp.html">ルール暫定版</a>を公開しました。
         <li>7月18日: 本予告サイトを立ち上げました。
@@ -225,9 +226,7 @@ IEEE Japan Office<br>
             <p class="smaller">
 独立行政法人情報処理推進機構<br>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a><br><br>
-経済産業省<br><br>
 文部科学省<br><br>
-総務省
             </p>
           </section>
         </td>
