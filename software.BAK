@@ -17,7 +17,8 @@
 <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
 <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
 <br>
-<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
+<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a> 
+<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 <br>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
 <a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
@@ -47,7 +48,7 @@
 	  <h2>Software</h2>
       <p>The following software systems are currently available for the SamurAI Jockey game.</p>
       <ul>
-	<li>SamurAI Jockey Game Software: <a href="https://github.com/SamurAI-Coding/Software2017-18">GitHub Repository</a> and <a href="https://github.com/SamurAI-Coding/Software2017-18/archive/master.zip">ZIP Archive (Updated 01 Oct 2017):
+	<li>SamurAI Jockey Game Software: <a href="https://github.com/SamurAI-Coding/Software2017-18">GitHub Repository</a> and <a href="https://github.com/SamurAI-Coding/Software2017-18/archive/master.zip">ZIP Archive</a> (Updated 01 Oct 2017):
 	  Manages a SamurAI Jockey game according to its rules, invoking
 	  AI programs to control players.
 	  Sample AI program and visualizer are also included.
