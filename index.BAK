@@ -32,7 +32,7 @@
   <nav id="global">
       <ul>
         <li><a href=".">Home</a></li>
-        <li>Schedule</li> <!-- <a href="schedule.html">Schedule</a></li> -->
+        <li><a href="schedule.html">Schedule</a></li>
         <li><a href="rules.html">Rules</a></li>
         <li><a href="software.html">Software</a></li>
         <li>Entry</li> <!-- <a href="https://arena.ai-comp.net/">Entry</a></li> -->
@@ -111,6 +111,7 @@ and
     <section id="news">
       <h2>News</h2>
       <ul>
+<li>December 11: Deadline for entry to preliminary round has been announced. 
 <li>October 15: Sponsors and supporters have been added. Thank you for your supports. 
           <li>September 30: <a href="software.html">The preliminary game software</a> has been published.
           <li>September 30: <a href="rules.html">The preliminary game rules</a> have been published.
@@ -162,15 +163,19 @@ and contestants from a long distance within Japan received full travel expenses.
 All World Final contestants will be presented on the contest site.
 </p>
 
+<p>
+A few top teams at World Final will be selected as candidates of future IPSJ-IEEE Computer Society Joint Award recipients. 
+</p>
+
     </section>
 
     <section id="importantdates">
       <h2>Important Dates</h2>
       <ul>
       	<li>Preliminary rule announcement: Sep 30, 2017</li>
-<li>Due of call for challenge of online preliminary round: Jan-Feb, 2018 (TBD)</li>
-<li>Result announcement of call for challenge of online preliminary round: Feb, 2018 (TBD) <!-- 16 teams will be selected for the world final. Among them, up to five teams will be selected in consideration of diversity and geographical distribution. --> </li>
-        <li>World final round in Nishiwaseda, Tokyo (collocated with 80th IPSJ National Convention at <a href="https://www.waseda.jp/fsci/en/access/">Waseda University, Nishiwaseda Campus, Tokyo</a>): March 14, 2018</li>
+<li>Deadline for entry to preliminary round: Feb 8, 2018 AoE</li>
+<li>Result announcement: Feb 14, 2018 (TBD). 16 teams will be selected. Among them, up to four teams will be selected based on diversity and geographical distribution (TBD).</li>
+        <li>World final round in Nishiwaseda, Tokyo (collocated with 80th IPSJ National Convention at <a href="https://www.waseda.jp/fsci/en/access/">Waseda University, Nishiwaseda Campus, Tokyo</a>): Mar 14, 2018</li>
       </ul>
     </section>
 
@@ -242,7 +247,6 @@ Noriko Fukazawa, Hiroshi Suzuki</p>
 <p>Fujitsu Limited<br>
 <a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 </p>
-
 
 <h3>Media Sponsors</h3>
 

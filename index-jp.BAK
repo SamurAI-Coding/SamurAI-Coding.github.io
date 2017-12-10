@@ -32,7 +32,7 @@
   <nav id="global">
       <ul>
         <li><a href="index-jp.html">ホーム</a></li>
-        <li>日程</li> <!-- <a href="schedule-jp.html">日程</a></li> -->
+        <li><a href="schedule-jp.html">日程</a></li>
         <li><a href="rules-jp.html">ルール</a></li>
         <li><a href="software-jp.html">ソフトウェア</a></li>
         <li>参加登録</li> <!-- <a href="https://arena.ai-comp.net/">参加登録</a></li> -->
@@ -65,6 +65,7 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
+        <li>12月11日: 予選締め切りを掲載しました。
         <li>10月15日: スポンサー、協賛団体を追加掲載しました。ご支援に御礼申し上げます。
         <li>9月30日: <a href="software-jp.html">ゲームソフトウェア暫定版</a>を公開しました。
         <li>9月30日: <a href="rules-jp.html">ルール暫定版</a>を公開しました。
@@ -99,6 +100,7 @@
 
 <p>
 決勝における上位表彰者には副賞が提供されます（予定）。さらに、スポンサーから企業賞や景品が提供される予定です。
+また上位入賞者は、情報処理学会と IEEE Computer Society の Joint Award の表彰候補者となります。
 </p>
 <p>
 決勝出場者については、情報処理学会非会員の場合に情報処理学会の入会金（正会員のみ）および一年間の会費が無料となり、
@@ -120,7 +122,8 @@
       <h2>主要日程</h2>
       <ul>
         <li>ルール暫定版 公開：2017年9月30日</li>
-        <li>オンライン予選: 2018年1-2月（予定）</li>
+<li>オンライン予選 募集締切：2018 年 2 月 9 日（金）20:59 (日本時間)</li>
+<li>オンライン予選 結果発表：2018 年 2 月 14 日（水）頃 16 チーム選抜（うち最大 4 チームは多様性および地域バランス等を考慮した特別選抜枠の予定）</li>
         <li>決勝（於 早稲田大学） 　　：2018年3月14日（水）　※<a href="http://www.ipsj.or.jp/event/taikai/80">情報処理学会第80回全国大会併催</a></li>
       </ul>
     </section>
@@ -194,7 +197,7 @@
 
 
 <p>富士通株式会社<br>
-<a href="http://www.fujitsu.com/jp/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
+<a href="http://www.fujitsu.com/jp/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 </p>
 
 <h3>メディアスポンサー</h3>
