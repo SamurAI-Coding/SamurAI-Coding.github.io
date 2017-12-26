@@ -46,7 +46,6 @@
 </header>
 <hr/>
 
-
 <section id="preliminary">
 <h2>Entry</h2>
 
@@ -63,6 +62,7 @@ Please note that your account name will be visible for any other teams.
 
 </section>
 
+<hr/>
     <!--#include virtual="footer.html" -->
 <footer>
   <div>
