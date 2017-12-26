@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="description" content="SamurAI Coding 2017-18">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2017-18: 予選</title>
+  <title>SamurAI Coding 2017-18: 参加登録</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -47,28 +47,27 @@
 </header>
 <hr/>
 
-    <section id="importantdates">
-      <h2>予選</h2>
-      <ul>
-	<li><a href="preliminary-rule-jp.pdf">
-	    予選のルール</a></li>
-	<li><!-- <a href="HardwareInfo.html"> -->
-	    予選のハードウェア環境
-            <!-- </a> -->
-  </li>
-  <li><!-- <a href="SoftwareInfo.html"> -->
-      予選のソフトウェア環境
-      <!-- </a> -->
-  </li>
-      </ul>
-    </section>
+<section id="preliminary">
+<h2>参加登録</h2>
 
+<p>
+<ol>
+<li>参加チームあるいは代表者のGoogle アカウントをご用意ください。
+なおアカウントの名称は他の参加チームから閲覧可能となりますのでご留意ください。
 
-<h2>予選の結果</h2>
+<li><a href="https://classroom.google.com/">Google クラスルーム</a>に同アカウントでログインしてください。
 
-(TBD)
+<li>「＋」をクリックして「クラスに参加」を選び、次の招待コードを入力してください: wbjugqr
+
+<li>参加したクラスから辿れる Registration Form から参加登録してください。
+</ol>
+
+</p>
+
+</section>
 
 <hr/>
+    <!--#include virtual="footer-jp.html" -->
 <footer>
   <div>
     <table class="multicolumn">

@@ -36,8 +36,8 @@
         <li><a href="schedule-jp.html">日程</a></li>
         <li><a href="rules-jp.html">ルール</a></li>
         <li><a href="software-jp.html">ソフトウェア</a></li>
-        <li>参加登録</li> <!-- <a href="https://arena.ai-comp.net/">参加登録</a></li> -->
-        <li>予選</li> <!-- <a href="preliminary-jp.html">予選</a></li> -->
+        <li><a href="entry-jp.html">参加登録</a></li>
+        <li><a href="preliminary-jp.html">予選</a></li>
         <li>決勝</li> <!-- <a href="final-jp.html">決勝</a></li> -->
         <li>FAQ</li> <!-- <a href="faq-jp.html">FAQ</a></li> -->
         <li><a href="sponsor-jp.html">スポンサー</a></li>

@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="Description" content="SamurAI Coding 2017-18">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2017-18</title>
+  <title>SamurAI Coding 2017-18: Rules</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -27,15 +27,16 @@
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 </center>
   <nav id="global">
       <ul>
         <li><a href=".">Home</a></li>
-        <li>Schedule</li> <!-- <a href="schedule.html">Schedule</a></li> -->
+        <li><a href="schedule.html">Schedule</a></li>
         <li><a href="rules.html">Rules</a></li>
         <li><a href="software.html">Software</a></li>
-        <li>Entry</li> <!-- <a href="https://arena.ai-comp.net/">Entry</a></li> -->
-        <li>Preliminary</li> <!-- <a href="preliminary.html">Preliminary</a></li> -->
+        <li><a href="entry.html">Entry</a></li>
+        <li><a href="preliminary.html">Preliminary</a></li>
         <li>Final</li> <!-- <a href="final.html">Final</a></li> --> 
         <li>FAQ</li> <!-- <a href="faq.html">FAQ</a></li> --> 
         <li><a href="index-jp.html">Japanese</a></li>
@@ -55,7 +56,7 @@ compete for time to goal in a course with obstacles.
 	    Outline of the Samurai 3x3 Game</a></li>
 -->
 	<li><a href="https://github.com/SamurAI-Coding/Software2017-18/raw/master/documents/rule-en.pdf">
-	    Rule Details (version September 17, 2017)</a></li>
+	    Rule Details (version December 26, 2017)</a></li>
 <!--
 	<li>Tournament rules are described
 	  in <a href="preliminary.html">the preliminary round page</a>

@@ -3,9 +3,9 @@
   <!--#include virtual="commonhead.html" -->
 <head>
   <meta charset="utf-8">
-  <meta name="Description" content="SamurAI Coding 2016-17">
+  <meta name="Description" content="SamurAI Coding 2017-18">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2016-17</title>
+  <title>SamurAI Coding 2017-18: Preliminary</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -16,27 +16,19 @@
   <img src="images/samurailogo.png" width="391" height="90" alt="" title=""/><br>
   <a href="http://www.ipsj.or.jp/english/index.html"><img src="images/IPSJ_logoC_M.gif" title="logo_ipsj" width="200"/></a><br>
 <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
-<a href="http://www.team-lab.com/"><img src="images/teamLab.png" width="110"/></a>
 <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
 <br>
-<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
-<a href="http://recochoku.jp/"><img src="images/RecoChoku.png" width="172"/></a>
-<a href="https://kuma-foundation.org/"><img src="images/KUMA2.png" width="140"/></a>
+<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a> 
+<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 <br>
-<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
-<a href="http://www.yahoo.co.jp/"><img src="images/Yahoo.gif" width="95"/></a>
-<a href="http://www.gstylus.co.jp/"><img src="images/gyaku_logo.jpg" width="75"/></a> 
-<br>
-<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
 <a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
 <a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a>
 <a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a>
-<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
-<a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="116"/></a>
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -44,10 +36,10 @@
         <li><a href="schedule.html">Schedule</a></li>
         <li><a href="rules.html">Rules</a></li>
         <li><a href="software.html">Software</a></li>
-        <li><a href="https://arena.ai-comp.net/">Entry</a></li>
+        <li><a href="entry.html">Entry</a></li>
         <li><a href="preliminary.html">Preliminary</a></li>
-        <li><a href="final.html">Final</a></li>
-        <li><a href="faq.html">FAQ</a></li>
+        <li>Final</li> <!-- <a href="final.html">Final</a></li> --> 
+        <li>FAQ</li> <!-- <a href="faq.html">FAQ</a></li> --> 
         <li><a href="index-jp.html">Japanese</a></li>
       </ul>
   </nav>
@@ -57,595 +49,19 @@
    <section id="importantdates">
       <h2>Preliminary Round</h2>
       <ul>
-	<li><a href="PreliminaryRoundRule-en.pdf">
+	<li><a href="preliminary-rule-en.pdf">
 	    Rules of preliminary rounds</a></li>
-	<li><a href="HardwareInfo.html">
-	    Hardwrae environment of the preliminary rounds</a></li>
+	<li><!-- <a href="HardwareInfo.html"> -->
+	    Hardwrae environment of the preliminary rounds
+<!-- </a> -->
+</li>
   <li><a href="SoftwareInfo.html">
       Software environment of the preliminary rounds</a></li>
       </ul>
 
 <h2>Result of online preliminary round</h2>
 
-<p>
-By conducting the preliminary round, 
-the following 16 teams have been selected for advancing to the World final 
-among 136 submissions. 
-By considering actual regional balance, 
-14 teams with the highest ratings among all teams and 
-2 international teams with good results have been selected. 
-Congratulations to all winners! See you in beautiful Nagoya! 
-</p>
-
-<p>
-Other teams that lost are invited to Banquet on the World final round 
-date on a first-come, first-served basis; 
-so come to Nagoya and watch the World final together! 
-Later we will let you know in detail.
-</p>
-
-<table>
-	<tr>
-		<th>Place</th>
-		<th>Team name</th>
-		<th>Points</th>
-		<th>Selected for world final</th>
-	</tr>
-	<tr>
-		<td>1</td>
-		<td>サーバルちゃん</td>
-		<td>268</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>2</td>
-		<td>ちのじょ</td>
-		<td>268</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>3</td>
-		<td>ys</td>
-		<td>266</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>4</td>
-		<td>sumoru</td>
-		<td>264</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>5</td>
-		<td>suikkee</td>
-		<td>256</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>6</td>
-		<td>K2</td>
-		<td>254</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>7</td>
-		<td>y_kawano</td>
-		<td>252</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>8</td>
-		<td>kasuka</td>
-		<td>248</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>9</td>
-		<td>uptoyou</td>
-		<td>246</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>10</td>
-		<td>remin</td>
-		<td>246</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>11</td>
-		<td>ガチャピソ</td>
-		<td>240</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>12</td>
-		<td>Ryoto</td>
-		<td>238</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>13</td>
-		<td>motono</td>
-		<td>238</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>14</td>
-		<td>natadecoco</td>
-		<td>234</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>johnnyhibiki</td>
-		<td>232</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>16</td>
-		<td>□×５</td>
-		<td>232</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>17</td>
-		<td>kazunetakahashi</td>
-		<td>231</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>18</td>
-		<td>progmate</td>
-		<td>230</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>19</td>
-		<td>inobee</td>
-		<td>226</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>20</td>
-		<td>dyuji</td>
-		<td>225</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>21</td>
-		<td>kamaboko</td>
-		<td>223</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>22</td>
-		<td>l&lt; l&lt; ln</td>
-		<td>222</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>turtle</td>
-		<td>220</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>24</td>
-		<td>SuzuTaku</td>
-		<td>218</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>25</td>
-		<td>ouo</td>
-		<td>216</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>26</td>
-		<td>test</td>
-		<td>211</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>27</td>
-		<td>nekroz</td>
-		<td>210</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>ASDFFDSA</td>
-		<td>207</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>sunshine_pikotarou</td>
-		<td>206</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>30</td>
-		<td>Setter</td>
-		<td>204</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>31</td>
-		<td>mktest</td>
-		<td>202</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>akakasititu</td>
-		<td>201</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>33</td>
-		<td>tanitest</td>
-		<td>200</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>34</td>
-		<td>sayama_kikan</td>
-		<td>200</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>35</td>
-		<td>aaaa</td>
-		<td>199</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>36</td>
-		<td>kiki</td>
-		<td>198</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>37</td>
-		<td>piyo</td>
-		<td>195</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>38</td>
-		<td>Taiyo</td>
-		<td>192</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>39</td>
-		<td>WhiteCat</td>
-		<td>191</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>40</td>
-		<td>SHM</td>
-		<td>185</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>41</td>
-		<td>sDrunk</td>
-		<td>184</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>42</td>
-		<td>odds</td>
-		<td>184</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>43</td>
-		<td>gmkz</td>
-		<td>182</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>44</td>
-		<td>comb a tongue</td>
-		<td>180</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>45</td>
-		<td>yamatchan</td>
-		<td>178</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>46</td>
-		<td>服部半蔵</td>
-		<td>176</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>47</td>
-		<td>yasai</td>
-		<td>169</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>48</td>
-		<td>nhho</td>
-		<td>169</td>
-		<td>Selected</td>
-	</tr>
-	<tr>
-		<td>49</td>
-		<td>AL</td>
-		<td>163</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>50</td>
-		<td>Marice</td>
-		<td>163</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>km</td>
-		<td>162</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>TN</td>
-		<td>162</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>53</td>
-		<td>ss_54</td>
-		<td>161</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>54</td>
-		<td>restpal</td>
-		<td>160</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>55</td>
-		<td>Garchomp</td>
-		<td>160</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>56</td>
-		<td>c-pro</td>
-		<td>158</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>57</td>
-		<td>tz</td>
-		<td>158</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>58</td>
-		<td>kaki</td>
-		<td>156</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>59</td>
-		<td>課題40</td>
-		<td>154</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>60</td>
-		<td>28</td>
-		<td>154</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>61</td>
-		<td>fmhr</td>
-		<td>152</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>62</td>
-		<td>family</td>
-		<td>150</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>63</td>
-		<td>bobuhiro11</td>
-		<td>148</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>64</td>
-		<td>goldfish_bowl</td>
-		<td>147</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>65</td>
-		<td>yet_another_student</td>
-		<td>142</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>66</td>
-		<td>naminami</td>
-		<td>138</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>67</td>
-		<td>okazaki</td>
-		<td>138</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>68</td>
-		<td>tt000</td>
-		<td>136</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>sominsai</td>
-		<td>133</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>70</td>
-		<td>mishima_samurai</td>
-		<td>133</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>71</td>
-		<td>wsd</td>
-		<td>133</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>tugumi</td>
-		<td>133</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>ML</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>74</td>
-		<td>ytiz</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>75</td>
-		<td>shino_cs</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>76</td>
-		<td>orukakka</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>77</td>
-		<td>masa</td>
-		<td>131</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>78</td>
-		<td>プログラミングC課題番号40</td>
-		<td>130</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>79</td>
-		<td>ss_proc</td>
-		<td>129</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>80</td>
-		<td>rainbow</td>
-		<td>127</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>81</td>
-		<td>waseda</td>
-		<td>127</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>82</td>
-		<td>nkatoon</td>
-		<td>125</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>utsubo</td>
-		<td>121</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>Aleph</td>
-		<td>120</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>85</td>
-		<td>tempura</td>
-		<td>118</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>86</td>
-		<td>HM</td>
-		<td>114</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>87</td>
-		<td>mokazaki</td>
-		<td>114</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>88</td>
-		<td>H.N.</td>
-		<td>112</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>89</td>
-		<td>ykk</td>
-		<td>112</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>90</td>
-		<td>TakahiroShibui</td>
-		<td>104</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>91</td>
-		<td>orange03</td>
-		<td>100</td>
-		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-	</tr>
-</table>
-
-<p>
-Honorable mention: ninJa, tanpop, daisyo, tsukimizake, papapa, zhengze2014@gmail.com, TFRC
-A_Sasaki, www, syota_ogawa, Oiwake, λ. hambda, x, xashru, wrsn, Daiki, ichihara, ytsukagoshi, 142086, pyonpyon, Takayuki Sakamoto, HK, D, makita, Jian Peiyi, itabashi, iwatsushi, waseda univ, Ulab, fujii, 1w142289-3, A team, Mota_PC, Yamaguchi Bros, black_socks, kazuto, imts, ma34, 尾形亮二, ねお, jai, Tengichaduoc, forward, Ayashi, Senzaki
-</p>
+(TBD)
 
 <hr>
 <footer>
@@ -671,80 +87,26 @@ A_Sasaki, www, syota_ogawa, Oiwake, λ. hambda, x, xashru, wrsn, Daiki, ichihara
             <h3>Gold Sponsors</h3>
             <p>e-Seikatsu Co., Ltd.<br>
             <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a></p>
-            <p>teamLab<br>
-            <a href="http://www.team-lab.com/"><img src="images/teamLab.png" width="110"/></a></p>
-
           <p>Hitachi, Ltd.<br>
             <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a></p>
-
-<p>Fujitsu Limited<br>
-<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
-</p>
-
-<p>RecoChoku Co.,Ltd.<br>
-<a href="http://recochoku.jp/"><img src="images/RecoChoku.png" width="172"/></a></p>
-
-<p>Kuma Foundation<br>
-<a href="https://kuma-foundation.org/"><img src="images/KUMA2.png" width="140"/></a>
-
-<!--
-<p>TIS Inc.<br>
-<a href="https://www.tis.co.jp/"><img src="images/tis.png" width="150"/></a>
-</p>
--->
             <h3>Supporters</h3>
 
 <p>Japan Registry Services Co., Ltd.<br>
 <a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
 </p>
 
-<p>Yahoo Japan Corporation<br>
-<a href="http://www.yahoo.co.jp/"><img src="images/Yahoo.gif" width="95"/></a>
+<p>Fujitsu Limited<br>
+<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 </p>
-
-
-<!--
-<p>Vocal School, Venus<br>
-<a href="http://vocal.venus.to/"><img src="images/vocal-venus-logo.gif" width="60"/></a>
-</p>
-
-<p>Cray Japan Inc.<br>
-<a href="http://wwwjp.cray.com/"><img src="images/cray_logo_registered_.png" width="80"/></a>
-</p>
--->
 
 <h3>Media Sponsors</h3>
 
-            <p>GSTYLUS<br>
-            <a href="http://www.gstylus.co.jp/"><img src="images/gyaku_logo.jpg" width="75"/></a></p>
-<!--
-<p><a href="https://moneyforward.com/">Money Forward, Inc.</a></p>
-      	  </section>
--->
       	</td>
       	<td>
       	  <section id="supporters">
       	    <h3>Supporters</h3>
 
             <p class="smaller">
-<!--
-China Computer Federation<br>
-<a href="http://www.ccf.org.cn/"><img src="images/CCF.gif" title="China Computer Federation" width="80"/></a><br><br>
-
-Department of Information and Computer Science, Faculty of Science and Technology, Keio University<br>
-<a href="https://www.ics.keio.ac.jp/"><img src="images/Keio.png" title="Department of Information and Computer Science, Faculty of Science and Technology, Keio University" width="60"/></a><br><br>
--->
-
-This program is partially supported by a grant of Kayamori Foundation of Informational Science Advancement.<br><br>
-
-Graduate School of Information Science, Nagoya University<br>
-<br>
-
-IEEE Computer Society<br>
-<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a><br><br>
-
-IEEE Computer Society Japan Chapter<br><br>
-
 IEEE Japan Office<br>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a><br><br>
 
@@ -763,10 +125,6 @@ Japan Information Technology Services Industry Association<br>
 Japan Society for Software Science and Technology<br>
 <a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a><br><br>
 
-Japan Users Association of Information Systems<br>
-<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
-<br><br>
-
 The Institute of Electronics, Information and Communication Engineers<br>
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <br><br>
@@ -774,16 +132,14 @@ The Institute of Electronics, Information and Communication Engineers<br>
 The Japanese Society for Artificial Intelligence<br>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a><br><br>
 
-<!--
-The Korean Institute of Information Scientists and Engineers<br>
-<a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="180"/></a><br><br>
--->
+The Ministry of Education, Culture, Sports, Science and Technology
+<br><br>
+
+IEEE Computer Society<br>
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a><br><br>
 
 The Ministry of Economy, Trade and Industry<br><br>
 
-The Ministry of Education, Culture, Sports, Science and Technology
-<br><br>
-The Ministry of Internal Affairs and Communications
              </p>
           </section>
       	</td>
