@@ -28,6 +28,7 @@
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -35,8 +36,8 @@
         <li><a href="schedule.html">Schedule</a></li>
         <li><a href="rules.html">Rules</a></li>
         <li><a href="software.html">Software</a></li>
-        <li>Entry</li> <!-- <a href="https://arena.ai-comp.net/">Entry</a></li> -->
-        <li>Preliminary</li> <!-- <a href="preliminary.html">Preliminary</a></li> -->
+        <li><a href="entry.html">Entry</a></li>
+        <li><a href="preliminary.html">Preliminary</a></li>
         <li>Final</li> <!-- <a href="final.html">Final</a></li> --> 
         <li>FAQ</li> <!-- <a href="faq.html">FAQ</a></li> --> 
         <li><a href="index-jp.html">Japanese</a></li>
@@ -131,6 +132,10 @@ IEEE Computer Society<br>
 <a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a><br><br>
 
 The Ministry of Economy, Trade and Industry<br><br>
+
+
+The Korean Institute of Information Scientists and Engineers<br>
+<a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="180"/></a><br><br>
 
              </p>
           </section>
