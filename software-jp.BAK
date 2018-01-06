@@ -52,7 +52,7 @@
 	  <h2>ソフトウェア</h2>
       <p>SamurAI Jockey ゲーム関連のソフトウェアとして、以下のものが公開されています。
       <ul>
-	<li>SamurAI Jockey ゲーム用のソフトウェア</a>: <a href="https://github.com/SamurAI-Coding/Software2017-18">GitHubリポジトリ</a>・<a href="https://github.com/SamurAI-Coding/Software2017-18/releases/latest">アーカイブ</a> (2017年11月16日更新):
+	<li>SamurAI Jockey ゲーム用のソフトウェア</a>: <a href="https://github.com/SamurAI-Coding/Software2017-18">GitHubリポジトリ</a>・<a href="https://github.com/SamurAI-Coding/Software2017-18/releases/latest">アーカイブ</a> (2018年1月1日更新):
 SamurAI Jockey ゲームのレースの実行管理システム、ビューワ、およびサンプルが入っています。
 サムライを制御する AI プログラムを呼び出して、ルールにのっとってゲームの進行を管理します。
 	  詳しくは README.jp を見てください。
