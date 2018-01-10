@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="description" content="SamurAI Coding 2016-17">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2017-18</title>
+  <title>SamurAI Coding 2017-18: ルール</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -63,7 +63,7 @@ AIの制御するふたりのプレイヤがスタート位置から開始し、
 	    SamurAI Jockey ゲームの概要</a></li>
 -->
 	<li><a href="https://github.com/SamurAI-Coding/Software2017-18/raw/master/documents/rule-jp.pdf">
-	    サムライジョッキーゲームルール (2018 年 1 月 26 日版)</a></li>
+	    サムライジョッキーゲームルール (2018 年 1 月 9 日版)</a></li>
 <!--
 	<li>予選と決勝のトーナメントルールについては、それぞれ
 	  <a href="preliminary-jp.html">予選のページ</a>および
