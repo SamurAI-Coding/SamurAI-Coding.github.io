@@ -51,15 +51,16 @@
       <h2>Hardware Environment of Online Execution at Preliminary (Qualifying) Round</h2>
       <ul>
       　　<li>Memory: 8 GB</li>
-      　　<li>CPU: Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz, 4 cores (hyperthreading is enabled)
- Cores</li>
-      　　<li>The contest system uses the memory restriction (1 GB per 1 AI) to make matches fair. </li>
-<li>The maximum size of the submission AI program archive is 64 MB. (subject to change)</li>
+      　　<li>CPU: Intel(R) Xeon(R) CPU E3-1230 v5 @ 3.40GHz, 4 cores (hyperthreading is enabled)</li>
+      　　<li>The contest system uses the memory restriction (1 GB per 1 AI) to make matches fair.</li>
+      　　<li>The maximum size of the submission AI program archive is 64 MB. (subject to change)</li>
+<li></li>
       　　<li>Please see <a href="https://server.sakura.ad.jp/specification/">the information page</a> of the private server using 
 Standard (スタンダードシリーズ) Xeon 4 cores 3.4GHz (Xeon 4コア 3.4GHz) plan hosted by SAKURA Internet Inc.</li>
       </ul>
     </section>
 
+<hr/>
     <!--#include virtual="footer.html" -->
 <footer>
   <div>
