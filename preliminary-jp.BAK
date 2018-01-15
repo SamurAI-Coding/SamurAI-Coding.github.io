@@ -52,13 +52,16 @@
       <h2>予選</h2>
       <ul>
 	<li><a href="preliminary-rule-jp.pdf">
-	    予選のルール</a> (2018年1月9日更新)</li>
+	    予選のルール</a> (2018年1月15日更新)</li>
 	<li><a href="HardwareInfo.html">
 	    予選のハードウェア環境
 </a>
   </li>
   <li><a href="SoftwareInfo.html">予選のソフトウェア環境</a>
   </li>
+<li>他の参加者との対戦の場は練習会を設ける予定です。詳細は<a href="entry-jp.html">参加登録</a>後の Google Classroom をご覧ください。第1回 練習会は、1月22日までに提出済みのプログラムを対象とする予定です（変更可能性あり）。
+        <li>1月16日: <a href="https://trial.samuraicoding.info/">提出テストサイト（対戦テストサイト）</a>を公開しました。予選で使用されるサーバ上でのプログラムの動作をテストできます。
+</li>
       </ul>
     </section>
 
