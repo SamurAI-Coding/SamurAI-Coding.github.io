@@ -67,7 +67,9 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
-        <li>1月11日: <a href="preliminary-jp.html">予選</a>におけるハードウェア環境を掲載しました。
+        <li>1月15日: <a href="preliminary-jp.html">予選ルール</a>を更新しました。
+        <li>1月15日: <a href="preliminary-jp.html">予選</a>における<a href="SoftwareInfo.html">ソフトウェア環境</a>を掲載しました。
+        <li>1月11日: <a href="preliminary-jp.html">予選</a>における<a href="HardwareInfo.html">ハードウェア環境</a>を掲載しました。
         <li>1月7日: <a href="software-jp.html">ソフトウェア</a>の新バージョンをリリースしました。ビューワの改訂など実施しています。
         <li>1月7日: <a href="rules-jp.html">ゲームルール</a>中の誤りを修正しました: 「考慮時間」の単位を「マイクロ秒」から「ミリ秒」に修正しました。なお、現在および以前のバージョンの<a href="software-jp.html">ソフトウェア</a>は最初から「ミリ秒」を用いています。
         <li>1月1日: <a href="software-jp.html">ソフトウェア</a>の新バージョンをリリースしました。新たなサンプルプレイヤとサンプルコースを含むととともに、幾つかのバグを修正しています。
@@ -152,7 +154,7 @@
         プログラミング言語としては様々な主要な言語の中から自由に選ぶことができます（予定）。
       </p>
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:90.657%;"><iframe src="https://streamable.com/s/csylw/touhci?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:90.657%;"><iframe src="https://streamable.com/s/csylw/moaqds?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
     </section>
 

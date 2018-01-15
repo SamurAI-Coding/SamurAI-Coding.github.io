@@ -53,13 +53,11 @@
       <ul>
 	<li><a href="preliminary-rule-jp.pdf">
 	    予選のルール</a> (2018年1月9日更新)</li>
-	<li><!-- <a href="HardwareInfo.html"> -->
+	<li><a href="HardwareInfo.html">
 	    予選のハードウェア環境
-            <!-- </a> -->
+</a>
   </li>
-  <li><!-- <a href="SoftwareInfo.html"> -->
-      予選のソフトウェア環境
-      <!-- </a> -->
+  <li><a href="SoftwareInfo.html">予選のソフトウェア環境</a>
   </li>
       </ul>
     </section>
