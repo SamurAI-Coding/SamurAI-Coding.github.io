@@ -113,8 +113,8 @@ javac 1.8.0_152
 kotlin -version | head -n 1 =>
 Kotlin version 1.2.10 (JRE 1.8.0_152-b16)
 
-llc --version | head -n 1 =>
-LLVM (http://llvm.org/):
+llc --version | head -n 2 | tail -n 1 =>
+LLVM version 4.0.1
 
 lsc -v | head -n 1 =>
 LiveScript version 1.5.0
@@ -167,11 +167,8 @@ ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
 rustc --version | head -n 1 =>
 rustc 1.18.0
 
-SBT_OPTS='-Xms512M -Xmx4G' sbt about | head -n 2 | tail -n 1 =>
-	[SUCCESSFUL ] org.scala-sbt#sbt;1.1.0!sbt.jar (54ms)
-
-SBT_OPTS='-Xms512M -Xmx4G' sbt about | head -n 2 | tail -n 1 =>
-#
+sbt about | head -n 5 | tail -n 1 =>
+[info] This is sbt 1.1.0
 
 scala -version 2>&1 | head -n 1 =>
 Scala code runner version 2.12.4 -- Copyright 2002-2017, LAMP/EPFL and Lightbend, Inc.
@@ -184,6 +181,75 @@ Version 2.6.2
 
 xbuild --verison | head -n 1 =>
 XBuild Engine Version 14.0
+
+pip list =>
+asn1crypto (0.22.0)
+backports.weakref (1.0.post1)
+bleach (1.5.0)
+chainer (3.2.0)
+cryptography (1.9)
+decorator (4.1.1)
+enum34 (1.1.6)
+filelock (3.0.0)
+funcsigs (1.0.2)
+futures (3.2.0)
+html5lib (0.9999999)
+idna (2.5)
+ipaddress (1.0.17)
+Keras (2.1.2)
+keyring (10.4.0)
+keyrings.alt (2.2)
+Markdown (2.6.11)
+mock (2.0.0)
+numpy (1.14.0)
+olefile (0.44)
+pbr (3.1.1)
+Pillow (4.1.1)
+pip (9.0.1)
+protobuf (3.5.1)
+pycrypto (2.6.1)
+pygobject (3.24.1)
+Pyste (0.9.10)
+pyxdg (0.25)
+PyYAML (3.12)
+scipy (1.0.0)
+SecretStorage (2.3.1)
+setuptools (38.4.0)
+six (1.11.0)
+tensorflow (1.4.1)
+tensorflow-tensorboard (0.4.0rc3)
+Werkzeug (0.14.1)
+wheel (0.30.0)
+
+pip3 list =>
+asn1crypto (0.22.0)
+bleach (1.5.0)
+chainer (3.2.0)
+cryptography (1.9)
+decorator (4.1.1)
+enum34 (1.1.6)
+filelock (3.0.0)
+html5lib (0.9999999)
+idna (2.5)
+Keras (2.1.2)
+keyring (10.4.0)
+keyrings.alt (2.2)
+Markdown (2.6.11)
+numpy (1.14.0)
+pip (9.0.1)
+protobuf (3.5.1)
+pycrypto (2.6.1)
+pygobject (3.24.1)
+pyxdg (0.25)
+PyYAML (3.12)
+scipy (1.0.0)
+SecretStorage (2.3.1)
+setuptools (38.4.0)
+six (1.11.0)
+tensorflow (1.4.1)
+tensorflow-tensorboard (0.4.0rc3)
+Werkzeug (0.14.1)
+wheel (0.30.0)
       </pre>
     </section>
 
