@@ -50,128 +50,140 @@
     <section id="main">
       <h2>Software Environment of Online Execution</h2>
       <pre>
-ant -version | head -n 1
-=> Apache Ant(TM) version 1.10.0 compiled on December 27 2016
+ant -version | head -n 1 =>
+Apache Ant(TM) version 1.10.1 compiled on February 2 2017
 
-ceylon -v | head -n 1
-=> ceylon version 1.3.1 74ea8c7 (Now We Try It My Way)
+ceylon -v | head -n 1 =>
+ceylon version 1.3.3 0d594b3 (Contents May Differ)
 
-clang --version | head -n 1
-=> clang version 3.8.1-12ubuntu1 (tags/RELEASE_381/final)
+clang --version | head -n 1 =>
+clang version 4.0.1-6 (tags/RELEASE_401/final)
 
-clisp --version | head -n 1
-=> GNU CLISP 2.49 (2010-07-07) (built on toyol.buildd [127.0.1.1])
+clisp --version | head -n 1 =>
+GNU CLISP 2.49 (2010-07-07) (built on lcy01-31.buildd [127.0.1.1])
 
-coffee -v | head -n 1
-=> CoffeeScript version 1.12.3
+coffee -v | head -n 1 =>
+CoffeeScript version 1.12.7
 
-dmcs --version | head -n 1
-=> Mono C# compiler version 4.2.1.0
+dmcs --version | head -n 1 =>
+Note: dmcs is deprecated, please use mcs instead!
 
-dmd --version | head -n 1
-=> DMD64 D Compiler v2.073.0
+dmd --version | head -n 1 =>
+DMD64 D Compiler v2.078.0
 
-erl +V 2>&1 | head -n 1
-=> Erlang (SMP,ASYNC_THREADS) (BEAM) emulator version 7.3.1.2
+erl +V 2>&1 | head -n 1 =>
+Erlang (SMP,ASYNC_THREADS) (BEAM) emulator version 9.0.4
 
-gcc --version | head -n 1
-=> gcc (Ubuntu 6.2.0-5ubuntu12) 6.2.0 20161005
+gcc --version | head -n 1 =>
+gcc (Ubuntu 7.2.0-8ubuntu3) 7.2.0
 
-gdc --version | head -n 1
-=> gdc (Ubuntu 6.2.0-5ubuntu12) 6.2.0 20161005
+gdc --version | head -n 1 =>
+gdc (Ubuntu 7.2.0-8ubuntu3) 7.2.0
 
-ghc --version | head -n 1
-=> The Glorious Glasgow Haskell Compilation System, version 7.10.3
+gem -v | head -n 1 =>
+2.6.8
 
-g++ --version | head -n 1
-=> g++ (Ubuntu 6.2.0-5ubuntu12) 6.2.0 20161005
+ghc --version | head -n 1 =>
+The Glorious Glasgow Haskell Compilation System, version 8.0.2
 
-go version | head -n 1
-=> go version go1.6.3 linux/amd64
+g++ --version | head -n 1 =>
+g++ (Ubuntu 7.2.0-8ubuntu3) 7.2.0
 
-gosh -V | head -n 1
-=> Gauche scheme shell, version 0.9.4 [utf-8,pthreads], x86_64-pc-linux-gnu
+go version | head -n 1 =>
+go version go1.8.3 linux/amd64
 
-gradle -version | head -n 3 | tail -n 1
-=> Gradle 3.3
+gosh -V | head -n 1 =>
+Gauche scheme shell, version 0.9.5 [utf-8,pthreads], x86_64-pc-linux-gnu
 
-groovy --version | head -n 1
-=> Groovy Version: 2.4.8 JVM: 1.8.0_121 Vendor: Oracle Corporation OS: Linux
+gradle -version | head -n 3 | tail -n 1 =>
+Gradle 4.4.1
 
-gst -v | head -n 1
-=> GNU Smalltalk version 3.2.5
+groovy --version | head -n 1 =>
+Groovy Version: 2.4.13 JVM: 1.8.0_152 Vendor: Azul Systems, Inc. OS: Linux
 
-java -version 2>&1 | head -n 1
-=> java version "1.8.0_121"
+gst -v | head -n 1 =>
+GNU Smalltalk version 3.2.5
 
-javac -version 2>&1 | head -n 1
-=> javac 1.8.0_121
+java -version 2>&1 | head -n 1 =>
+openjdk version "1.8.0_152"
 
-kotlin -version | head -n 1
-=> Kotlin version 1.0.6 (JRE 1.8.0_121-b13)
+javac -version 2>&1 | head -n 1 =>
+javac 1.8.0_152
 
-llc --version | head -n 1
-=> LLVM (http://llvm.org/):
+kotlin -version | head -n 1 =>
+Kotlin version 1.2.10 (JRE 1.8.0_152-b16)
 
-lsc -v | head -n 1
-=> LiveScript version 1.5.0
+llc --version | head -n 1 =>
+LLVM (http://llvm.org/):
 
-lua5.3 -v | head -n 1
-=> Lua 5.3.1  Copyright (C) 1994-2015 Lua.org, PUC-Rio
+lsc -v | head -n 1 =>
+LiveScript version 1.5.0
 
-make -v | head -n 1
-=> GNU Make 4.1
+lua5.3 -v | head -n 1 =>
+Lua 5.3.3  Copyright (C) 1994-2016 Lua.org, PUC-Rio
 
-mcs --version | head -n 1
-=> Mono C# compiler version 4.2.1.0
+make -v | head -n 1 =>
+GNU Make 4.1
 
-mono -V | head -n 1
-=> Mono JIT compiler version 4.2.1 (Debian 4.2.1.102+dfsg2-7ubuntu4)
+mcs --version | head -n 1 =>
+Mono C# compiler version 4.6.2.0
 
-mvn -v | head -n 1
-=> Apache Maven 3.3.9 (bb52d8502b132ec0a5a3f4c09453c07478323dc5; 2015-11-10T16:41:47+00:00)
+mono -V | head -n 1 =>
+Mono JIT compiler version 4.6.2 (Debian 4.6.2.7+dfsg-1ubuntu1)
 
-node -v | head -n 1
-=> v7.5.0
+mvn -v | head -n 1 =>
+Apache Maven 3.5.2 (138edd61fd100ec658bfa2d307c43b76940a5d7d; 2017-10-18T07:58:13Z)
 
-npm -v | head -n 1
-=> 4.1.2
+node -v | head -n 1 =>
+v8.9.4
 
-ocaml -version | head -n 1
-=> The OCaml toplevel, version 4.02.3
+npm -v | head -n 1 =>
+5.6.0
 
-python -V 2>&1 | head -n 1
-=> Python 2.7.12+
+ocaml -version | head -n 1 =>
+The OCaml toplevel, version 4.04.0
 
-python3 -V | head -n 1
-=> Python 3.5.2+
+pip -V | head -n 1 =>
+pip 9.0.1 from /usr/lib/python2.7/dist-packages (python 2.7)
 
-perl -v | sed -n 2P
-=> This is perl 5, version 22, subversion 2 (v5.22.2) built for x86_64-linux-gnu-thread-multi
+pip3 -V | head -n 1 =>
+pip 9.0.1 from /usr/lib/python3/dist-packages (python 3.6)
 
-php -v | head -n 1
-=> PHP 7.0.13-0ubuntu0.16.10.1 (cli) ( NTS )
+python -V 2>&1 | head -n 1 =>
+Python 2.7.14
 
-ruby -v | head -n 1
-=> ruby 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]
+python3 -V | head -n 1 =>
+Python 3.6.3
 
-rustc --version | head -n 1
-=> rustc 1.10.0
+perl -v | sed -n 2P =>
+This is perl 5, version 26, subversion 0 (v5.26.0) built for x86_64-linux-gnu-thread-multi
 
-sbt about | head -n 4 | tail -n 1
-=> [info] This is sbt 0.13.13
+php -v | head -n 1 =>
+PHP 7.1.11-0ubuntu0.17.10.1 (cli) (built: Nov  1 2017 16:30:52) ( NTS )
 
-scala -version 2>&1 | head -n 1
-=> Scala code runner version 2.12.1 -- Copyright 2002-2016, LAMP/EPFL and Lightbend, Inc.
+ruby -v | head -n 1 =>
+ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-linux]
 
-swipl --version | head -n 1
-=> SWI-Prolog version 7.2.3 for amd64
+rustc --version | head -n 1 =>
+rustc 1.18.0
 
-tsc -v | head -n 1
-=> Version 2.1.5
+SBT_OPTS='-Xms512M -Xmx4G' sbt about | head -n 2 | tail -n 1 =>
+	[SUCCESSFUL ] org.scala-sbt#sbt;1.1.0!sbt.jar (54ms)
 
-xbuild --verison | head -n 1
-=> XBuild Engine Version 12.0
+SBT_OPTS='-Xms512M -Xmx4G' sbt about | head -n 2 | tail -n 1 =>
+#
+
+scala -version 2>&1 | head -n 1 =>
+Scala code runner version 2.12.4 -- Copyright 2002-2017, LAMP/EPFL and Lightbend, Inc.
+
+swipl --version | head -n 1 =>
+SWI-Prolog version 7.4.2 for amd64
+
+tsc -v | head -n 1 =>
+Version 2.6.2
+
+xbuild --verison | head -n 1 =>
+XBuild Engine Version 14.0
       </pre>
     </section>
 
