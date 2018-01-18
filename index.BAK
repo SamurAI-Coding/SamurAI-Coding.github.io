@@ -113,6 +113,7 @@ and
     <section id="news">
       <h2>News</h2>
       <ul>
+<li>January 17: New version of <a href="software.html">Software</a> having the revised viewer has been released. 
 <li>January 16: We plan to hold Practice Round that provides an opportunity for battling other participants! Please refer to details on Google Classroom via <a href="entry-jp.html">Entry</a>. 1st Practice Round will use all programs that are submitted by Jan 22 JST (subject to change). 
 <li>January 16: <a href="https://trial.samuraicoding.info/">Submission Trial Page</a> is now available! You can test the behavior of your program on the game server to be used for Preliminary (Qualifying) Round.
 <li>January 15: <a href="preliminary.html">Preliminary (Qualifying) Round Rules</a> have been updated. 
@@ -224,7 +225,7 @@ Noriko Fukazawa, Hiroshi Suzuki</p>
 
      <h2>Game Design and Development Support</h2>
 
- <p>Shingo Ohtsuka</p>
+ <p>Kento Kawakami, Shingo Ohtsuka, Yuki Kondou</p>
 
 
     </section>

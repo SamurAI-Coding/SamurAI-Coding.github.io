@@ -67,8 +67,9 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
+        <li>1月17日: <a href="software-jp.html">ソフトウェア</a>の新バージョンをリリースしました。
         <li>1月16日: 他の参加者との対戦の場は練習会を設ける予定です。詳細は<a href="entry-jp.html">参加登録</a>後の Google Classroom をご覧ください。第1回 練習会は、1月22日までに提出済みのプログラムを対象とする予定です（変更可能性あり）。
-        <li>1月16日: <a href="https://trial.samuraicoding.info/">提出テストサイト（同さテストサイト）</a>を公開しました。予選で使用されるサーバ上でのプログラムの動作をテストできます。
+        <li>1月16日: <a href="https://trial.samuraicoding.info/">提出テストサイト（動作テストサイト）</a>を公開しました。予選で使用されるサーバ上でのプログラムの動作をテストできます。
         <li>1月15日: <a href="preliminary-jp.html">予選ルール</a>を更新しました。
         <li>1月15日: <a href="preliminary-jp.html">予選</a>における<a href="SoftwareInfo.html">ソフトウェア環境</a>を掲載しました。
         <li>1月11日: <a href="preliminary-jp.html">予選</a>における<a href="HardwareInfo.html">ハードウェア環境</a>を掲載しました。
