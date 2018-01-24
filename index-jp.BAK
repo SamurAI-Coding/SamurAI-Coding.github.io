@@ -67,7 +67,7 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
-        <li>1月22日: <a href="entry-jp.html">参加登録</a>後の Google Classroom 内の Google Form にて第1回 練習会 Practice Round #1 のプログラムの提出を受け付けていますが再提出を行えないという問題を確認しました。1ユーザから複数の回答を許可するように変更し、提出〆切を 2018/01/22 23:59 JST まで延長しましたので再提出を希望する方は Form の入力をお願いします。なお、最新1件の提出ファイルを Practice Round #1 に用います。
+        <li>1月22日: <a href="entry-jp.html">参加登録</a>後の Google Classroom 内の Google Form にて第1回 練習会 Practice Round #1 のプログラムの提出を受け付けていますが再提出を行えないという問題を確認しました。1ユーザから複数の回答を許可するように変更し、提出〆切を 2018/01/24 23:59 JST まで延長しましたので再提出を希望する方は Form の入力をお願いします。なお、最新1件の提出ファイルを Practice Round #1 に用います。
         <li>1月17日: <a href="software-jp.html">ソフトウェア</a>の新バージョンをリリースしました。幾つかの問題を修正しています。
         <li>1月16日: 他の参加者との対戦の場は練習会を設ける予定です。詳細は<a href="entry-jp.html">参加登録</a>後の Google Classroom をご覧ください。第1回 練習会は、1月22日までに提出済みのプログラムを対象とする予定です（変更可能性あり）。
         <li>1月16日: <a href="https://trial.samuraicoding.info/">提出テストサイト（動作テストサイト）</a>を公開しました。予選で使用されるサーバ上でのプログラムの動作をテストできます。
@@ -255,6 +255,10 @@ The Korean Institute of Information Scientists and Engineers<br>
 
 IEEE Computer Society Tokyo/Japan Joint Chapter<br>
 <a href="https://www.ieee-jp.org/section/tokyo/chapter/C-16/"><img src="images/IEEE-CSJ.gif" title="IEEE Computer Society Tokyo/Japan Joint Chapter" width="65"/></a><br><br>
+
+一般社団法人日本情報システム・ユーザー協会<br>
+<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
+<br><br>
 
             </p>
           </section>
