@@ -30,6 +30,7 @@
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
 <a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="116"/></a>
+<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -57,7 +58,8 @@
 </a>
 </li>
   <li><a href="SoftwareInfo.html">Software environment of the preliminary rounds</a></li>
-<li>We plan to hold Practice Round that provides an opportunity for battling other participants! Please refer to details on Google Classroom via <a href="entry-jp.html">Entry</a>. 1st Practice Round will use all programs that are submitted by Jan 24 23:59 JST. Its submission due has been extended. Moreover, now you can update your program submitted to the 1st Practice Round.</li>
+<li>We plan to hold Practice Round that provides an opportunity for battling other participants! Please refer to details on Google Classroom via <a href="entry-jp.html">Entry</a>. 1st Practice Round used all programs that are submitted by Jan 24 23:59 JST. Participating teams could update your program submitted to the 1st Practice Round. The results of the Practice Round #1 (consisting of two parts: First Round and Final Qualifier) are now available on the <a href="https://trial.samuraicoding.info/contests/1">Submission Trial Page</a> . Note that only teams registered using the Registration Form inside the Google Classroom via the <a href="entry.html">Entry</a> are eligible. Please register yourself by the Registration Form if not registered yet. Note that the participation in the Practice Round is NOT mandatory for entry to the contest; however, the registration is mandatory for entry to the contest. 
+</li>
 <li><a href="https://trial.samuraicoding.info/">Submission Trial Page</a> is now available! You can test the behavior of your program on the game server to be used for Preliminary (Qualifying) Round.</li>
       </ul>
 
