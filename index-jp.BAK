@@ -68,6 +68,10 @@
     <section id="news">
       <h2>ニュース</h2>
       <ul>
+<li>2月6日: 1月30日 4:50（JST）頃、<a href="https://trial.samuraicoding.info/contests/1">提出テストサイト（動作テストサイト）</a>上にてPractice Round #1（以降「練習ラウンド」）の結果を公開した際に、設定を誤り、練習ラウンドの参加チーム32名分の各登録メールアドレスが閲覧可能な状態となっておりました。この状態は、同日11:50（JST）頃に担当者が誤りに気付き、ページの修正を行うまで継続しておりました。現在はこの問題は解消されております。本事案の原因は、練習ラウンドの結果の公開を進める中で、ページの確認体制が不十分になってしまった点にあると考えております。
+<br><br>
+今後は、個人情報管理の重大性にかんがみて、体制の是正に努めます。閲覧可能な状態となっていた情報に該当する関係各位にご迷惑をおかけしたことを深くお詫び申し上げます。本件に関するお問い合わせ等は <a class="contactadddr" href="mailto:samurai-contact@ipsj.or.jp">samurai-contact@ipsj.or.jp</a>にご連絡ください。<br><br>
+情報処理学会プログラミングコンテスト委員会<br><br>
         <li>2月1日: <a href="entry-jp.html">参加登録</a>後の Google Classroom 内の Google Form にて第2回 練習会 Practice Round #2 のプログラムの提出を日本時間 2月6日 23:59 まで受け付けています。ぜひ<a href="entry-jp.html">参加登録</a>における Google Classroom 内の Regisration Form から Register のうえ、プログラムを提出ください。なお本コンテストへの参加にあたり、練習会への参加は必須ではありませんが、Register は必須です。
         <li>1月31日: <a href="preliminary-jp.html">オンライン予選</a>の募集締切を日本時間 2月13日（火）23:59へ延長しました。ぜひご参加ください！
         <li>1月30日: 第1回 練習会（Practice Round #1）の対戦結果を<a href="https://trial.samuraicoding.info/contests/1">提出テストサイト（動作テストサイト）</a>上に公開しました（First Round と Final Qualifier の2部構成）。<a href="entry-jp.html">参加登録</a>における Google Classroom 内の Regisration Form から Register されていないチームは Anonymous として表示されていますので、Register がまだのチームはお早めにご実施ください。本コンテストへの参加にあたり、練習会への参加は必須ではありませんが、Register は必要です。
