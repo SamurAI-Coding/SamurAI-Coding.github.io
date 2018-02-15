@@ -40,7 +40,7 @@
         <li><a href="software.html">Software</a></li>
         <li><a href="entry.html">Entry</a></li>
         <li><a href="preliminary.html">Preliminary</a></li>
-        <li>Final</li> <!-- <a href="final.html">Final</a></li> --> 
+        <li><a href="final.html">Final</a></li> --> 
         <li>FAQ</li> <!-- <a href="faq.html">FAQ</a></li> --> 
         <li><a href="index-jp.html">Japanese</a></li>
       </ul>
@@ -115,7 +115,7 @@ and
       <h2>News</h2>
       <ul>
 <li>February 12: We are currently accepting submissions to the Preliminary Round by Feb 13 23:59 JST. 
-Please submit your program at Preliminary Round on Google Classroom via <a href="entry-jp.html">Entry</a>. Note that only registered teams are eligible for the Preliminary Round. 
+Please submit your program at Preliminary Round on Google Classroom via <a href="entry.html">Entry</a>. Note that only registered teams are eligible for the Preliminary Round. 
 <li>February 8: The results of the Practice Round #2 (consisting of two parts: First Round and Final Qualifier) are now available on the <a href="https://trial.samuraicoding.info/contests/2">Submission Trial Page</a>. Note that the participation in the Practice Round is NOT mandatory for entry to the contest; however, the registration via the Registration Form is mandatory for entry to the contest. 
 <li>February 6: <br>
 When we published the result of the Practice Round #1 on the <a href="https://trial.samuraicoding.info/contests/1">Submission Trial Page</a> at 4:50am Jan 30 (JST), the e-mail addresses of the registrants of the Practice Round #1 were mistakenly displayed. This inappropriate status continued until our staff noticed it and updated the web page at 11:50am same date (JST). This problem has been fixed now.

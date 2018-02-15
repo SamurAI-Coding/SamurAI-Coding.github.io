@@ -3,9 +3,9 @@
   <!--#include virtual="commonhead.html" -->
 <head>
   <meta charset="utf-8">
-  <meta name="Description" content="SamurAI Coding 2016-17">
+  <meta name="Description" content="SamurAI Coding 2017-18">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2016-17</title>
+  <title>SamurAI Coding 2017-18: Final</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -16,27 +16,21 @@
   <img src="images/samurailogo.png" width="391" height="90" alt="" title=""/><br>
   <a href="http://www.ipsj.or.jp/english/index.html"><img src="images/IPSJ_logoC_M.gif" title="logo_ipsj" width="200"/></a><br>
 <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
-<a href="http://www.team-lab.com/"><img src="images/teamLab.png" width="110"/></a>
 <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
 <br>
-<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
-<a href="http://recochoku.jp/"><img src="images/RecoChoku.png" width="172"/></a>
-<a href="https://kuma-foundation.org/"><img src="images/KUMA2.png" width="140"/></a>
+<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a> 
+<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 <br>
-<a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
-<a href="http://www.yahoo.co.jp/"><img src="images/Yahoo.gif" width="95"/></a>
-<a href="http://www.gstylus.co.jp/"><img src="images/gyaku_logo.jpg" width="75"/></a> 
-<br>
-<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
 <a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
 <a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a>
 <a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a>
-<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
 <a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="116"/></a>
+<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -44,10 +38,10 @@
         <li><a href="schedule.html">Schedule</a></li>
         <li><a href="rules.html">Rules</a></li>
         <li><a href="software.html">Software</a></li>
-        <li><a href="https://arena.ai-comp.net/">Entry</a></li>
+        <li><a href="entry.html">Entry</a></li>
         <li><a href="preliminary.html">Preliminary</a></li>
         <li><a href="final.html">Final</a></li>
-        <li><a href="faq.html">FAQ</a></li>
+        <li>FAQ</li> <!-- <a href="faq.html">FAQ</a></li> --> 
         <li><a href="index-jp.html">Japanese</a></li>
       </ul>
   </nav>
@@ -57,65 +51,35 @@
 <h2>Final Round</h2>
 
 <p>
-On March 17, World Final Round will be held in Nagoya (collocated with 79th IPSJ National Convention at <a href="http://en.nagoya-u.ac.jp/access/index.html">Nagoya University, Higashiyama Campus</a>).</li>
+On March 14, World Final Round will be held in Tokyo (collocated with 80th IPSJ National Convention at <a href="https://www.waseda.jp/fsci/en/access/">Waseda University, Nishiwaseda Campus</a>).</li>
 </p>
 
-<h3>Schedule</h3>
+<h3>Schedule (TBD)</h3>
 
 <pre>
-14:50 ‒ 15:20 Registration
-15:20 ‒ 17:30 Opening
+15:00 ‒ 15:30 Registration
+15:30 ‒ 17:40 Opening
  Tournament Matches with Introductions of Participants at the
 　　　　　　　　　First Round
-17:30 ‒ 17:50 Award ceremony
-18:00 ‒ 20:00 Banquet
+17:40 ‒ 18:00 Award ceremony
+18:15 ‒ 20:00 Banquet
 </pre>
 
 <h3>Broadcasting</h3>
 
 <p>
-If you do not come to the contest site, you can still enjoy the contest by watching <a href="http://live.nicovideo.jp/watch/lv289954681">NicoNicoVideo Broadcasting</a>. Watch the world final together!
+If you do not come to the contest site, you can still enjoy the contest by watching NicoNicoVideo Broadcasting. Watch the world final together! (TBD)
 </p>
 
 <h3>Rules</h3>
 
 <ul>
-  <li><a href="FinalRoundRule-en.pdf">Final Round Rules</a> (2016 Dec 22 edition)</li>
+  <li><a href="final-rule-en.pdf">Final Round Rules</a> (2018 Feb 16 edition)</li>
 </ul>
 
 <h3>Results and Submitted Program</h3>
 
-Introduction of the game and the match results are <a href="views/opening.html">available here </a> 
-(NOTE: we confirmed its functionality on Chrome, FireFox and IE).
-Results are shown below. 5th-8th places were decided based on the result of the online preliminary round. Moreover, special prizes are given to the following four teams by sponsors. Congratulations to all winners and world finalists! 
-
-<ul>
-<li>株式会社レコチョク RecoChoku Co.,Ltd.: remin, Gachapiso （ガチャピソ）
-<li>株式会社いい生活 e-Seikatsu Co.,Ltd.: ys, Serval-chan （サーバルちゃん）
-</ul>
-
-<table>
-	<tr>
-		<th>Place (rank)</th>
-		<th>Team name</th>
-        </tr>
-<tr><td>1</td><td>ys</td></tr>
-<tr><td>2</td><td>Serval-chan (サーバルちゃん)</td></tr>
-<tr><td>3</td><td>Chinojo (ちのじょ)</td></tr>
-<tr><td>4</td><td>sumoru</td></tr>
-<tr><td>5</td><td>suikkee</td></tr>
-<tr><td>6</td><td>kasuka</td></tr>
-<tr><td>7</td><td>remin</td></tr>
-<tr><td>8</td><td>Gachapiso (ガチャピソ)</td></tr>
-<tr><td>Finalist</td><td>nhho</td></tr>
-<tr><td>Finalist</td><td>uptoyou</td></tr>
-<tr><td>Finalist</td><td>Ryoto</td></tr>
-<tr><td>Finalist</td><td>motono</td></tr>
-<tr><td>Finalist</td><td>natadecoco</td></tr>
-<tr><td>Finalist</td><td>K2</td></tr>
-<tr><td>Finalist</td><td>y_kawano</td></tr>
-<tr><td>Finalist</td><td>Setter</td></tr>
-</table>
+(TBD)
 
 <hr>
 <footer>

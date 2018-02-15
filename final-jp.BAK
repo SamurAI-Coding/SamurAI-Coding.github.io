@@ -3,9 +3,9 @@
   <!--#include virtual="commonhead.html" -->
 <head>
   <meta charset="utf-8">
-  <meta name="description" content="SamurAI Coding 2016-17">
+  <meta name="description" content="SamurAI Coding 2017-18">
   <meta name="author" content="Hironori Washizaki">
-  <title>SamurAI Coding 2016-17</title>
+  <title>SamurAI Coding 2017-18: 決勝</title>
   <link rel="stylesheet" href="stylesheets/default.css">
 </head>
 
@@ -16,27 +16,21 @@
   <img src="images/samurailogo.png" width="391" height="90" alt="" title=""/><br>
   <a href="http://www.ipsj.or.jp/english/index.html"><img src="images/IPSJ_logoC_M.gif" title="logo_ipsj" width="200"/></a><br>
 <a href="http://www.e-seikatsu.info/"><img src="images/e-Seikatsu.png" width="160"/></a>
-<a href="http://www.team-lab.com/"><img src="images/teamLab.png" width="110"/></a>
 <a href="http://www.hitachi.co.jp/"><img src="images/ea60010030dmac.png" width="150"/></a>
 <br>
-<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="140"/></a>
-<a href="http://recochoku.jp/"><img src="images/RecoChoku.png" width="172"/></a>
-<a href="https://kuma-foundation.org/"><img src="images/KUMA2.png" width="140"/></a>
-<br>
 <a href="https://jprs.co.jp/"><img src="images/jprs.jpg" width="100"/></a>
-<a href="http://www.yahoo.co.jp/"><img src="images/Yahoo.gif" width="95"/></a>　
-<a href="http://www.gstylus.co.jp/"><img src="images/gyaku_logo.jpg" width="75"/></a> 
+<a href="http://www.fujitsu.com/"><img src="images/fujitsu-logo.jpg" width="103"/></a>
 <br>
-<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://jp.ieee.org/"><img src="images/IEEE.jpg" title="IEEE Japan Office" width="65"/></a>
 <a href="http://www.jeita.or.jp/"><img src="images/JEITA.jpg" title="Japan Electronics and Information Technology Industries Association" width="75"/></a>
 <a href="http://www.jisa.or.jp/"><img src="images/JISA.png" title="Japan Information Technology Services Industry Association" width="75"/></a>
 <a href="http://www.jssst.or.jp/"><img src="images/JSSST.gif" title="Japan Society for Software Science and Technology" width="75"/></a>
-<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 <a href="http://www.ieice.org/"><img src="images/IEICE.bmp" title="The Institute of Electronics, Information and Communication Engineers" width="45"/></a>
 <a href="http://www.ai-gakkai.or.jp/"><img src="images/JSAI.png" title="The Japanese Society for Artificial Intelligence" width="55"/></a>
-<a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a>
+<a href="http://www.ipa.go.jp/"><img src="images/IPA.png" title="Information-technology Promotion Agency, Japan" width="85"/></a> 
+<a href="http://www.computer.org/web/guest"><img src="images/ComputerSocietyLogo-RGB-stacked.gif" title="IEEE Computer Society" width="95"/></a>
 <a href="http://kiise.or.kr/"><img src="images/KIISE.jpg" title="The Korean Institute of Information Scientists and Engineers" width="116"/></a>
+<a href="http://www.juas.or.jp/"><img src="images/JUAS.png" title="Japan Users Association of Information Systems" width="65"/></a>
 </center>
   <nav id="global">
       <ul>
@@ -44,10 +38,10 @@
         <li><a href="schedule-jp.html">日程</a></li>
         <li><a href="rules-jp.html">ルール</a></li>
         <li><a href="software-jp.html">ソフトウェア</a></li>
-        <li><a href="https://arena.ai-comp.net/">参加登録</a></li>
+        <li><a href="entry-jp.html">参加登録</a></li>
         <li><a href="preliminary-jp.html">予選</a></li>
         <li><a href="final-jp.html">決勝</a></li>
-        <li><a href="faq-jp.html">FAQ</a></li>
+        <li>FAQ</li> <!-- <a href="faq-jp.html">FAQ</a></li> -->
         <li><a href="sponsor-jp.html">スポンサー</a></li>
         <li><a href="index.html">English</a></li>
       </ul>
@@ -58,65 +52,35 @@
 <h2>決勝</h2>
 
 <p>
-2017年3月17日（金）に名古屋大学にて決勝を開催しました。
-<a href="http://www.ipsj.or.jp/event/taikai/79">情報処理学会第79回全国大会併催</a>となります。
+2018年3月14日（水）に早稲田大学西早稲田キャンパスにて決勝を開催します。
+<a href="http://www.ipsj.or.jp/event/taikai/80">情報処理学会第80回全国大会併催</a>となります。
 </p>
 
-<h3>スケジュール</h3>
+<h3>スケジュール（予定）</h3>
 
 <pre>
-14:50 ‒ 15:20 Registration
-15:20 ‒ 17:30 Opening
+15:00 ‒ 15:30 Registration
+15:30 ‒ 17:40 Opening
  Tournament Matches with Introductions of Participants at the
 　　　　　　　　　First Round
-17:30 ‒ 17:50 Award ceremony
-18:00 ‒ 20:00 Banquet
+17:40 ‒ 18:00 Award ceremony
+18:15 ‒ 20:00 Banquet
 </pre>
 
 <h3>生中継</h3>
 
 <p>
-<a href="http://live.nicovideo.jp/watch/lv289954681">ニコニコ生放送【情報処理学会チャンネル】</a> にて生中継をご覧いただけます。ぜひ白熱の対戦をお楽しみください！
+ニコニコ生放送【情報処理学会チャンネル】にて生中継をご覧いただけます。ぜひ白熱の対戦をお楽しみください！（予定）
 </p>
 
 <h3>ルール</h3>
 <ul>
-  <li><a href="FinalRoundRule-jp.pdf">決勝ルール</a> (2016年12月22日版)</li>
+  <li><a href="final-rule-jp.pdf">決勝ルール</a> (2018年2月16日版)</li>
 </ul>
 
 <h3>結果＆提出プログラム</h3>
 
-当日の<a href="views/opening.html">ゲーム説明ならびに対戦の模様</a>をまとめましたのでご覧ください
-（注記: Chrome, FireFox, IE にて動作確認。ブラウザによっては音が出ないなどの場合あり）。
-結果は下記になります。5位から8位については予選の結果に基づき決定しました。また、企業賞は以下の4チームに授与されました。おめでとうございます。
-
-<ul>
-<li>株式会社レコチョク RecoChoku Co.,Ltd.: remin, Gachapiso （ガチャピソ）
-<li>株式会社いい生活 e-Seikatsu Co.,Ltd.: ys, Serval-chan （サーバルちゃん）
-</ul>
-
-<table>
-	<tr>
-		<th>Place (rank)</th>
-		<th>Team name</th>
-        </tr>
-<tr><td>1</td><td>ys</td></tr>
-<tr><td>2</td><td>Serval-chan (サーバルちゃん)</td></tr>
-<tr><td>3</td><td>Chinojo (ちのじょ)</td></tr>
-<tr><td>4</td><td>sumoru</td></tr>
-<tr><td>5</td><td>suikkee</td></tr>
-<tr><td>6</td><td>kasuka</td></tr>
-<tr><td>7</td><td>remin</td></tr>
-<tr><td>8</td><td>Gachapiso (ガチャピソ)</td></tr>
-<tr><td>Finalist</td><td>nhho</td></tr>
-<tr><td>Finalist</td><td>uptoyou</td></tr>
-<tr><td>Finalist</td><td>Ryoto</td></tr>
-<tr><td>Finalist</td><td>motono</td></tr>
-<tr><td>Finalist</td><td>natadecoco</td></tr>
-<tr><td>Finalist</td><td>K2</td></tr>
-<tr><td>Finalist</td><td>y_kawano</td></tr>
-<tr><td>Finalist</td><td>Setter</td></tr>
-</table>
+（掲載予定）
 
 <hr>
 <footer>
