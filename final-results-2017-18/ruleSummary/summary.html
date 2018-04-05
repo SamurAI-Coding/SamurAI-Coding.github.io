@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>SamurAI 3x3 2017-18 Rule Summary</title>
+    <style>
+      .emph { color:#C00; font-weight:bold; }
+    </style>
+  </head>
+  <body style="font-family:roman; font-size:30px">
+    <img src="racecourse.png"
+	 style="float:right; width:25%">
+    <center style="font-size:40px; font-weight:bold">SamurAI Jockey Rule Summary</center>
+    <ul>
+      <li>
+	The game is a <span class="emph">race</span> of two players.
+      </li>
+      <li>
+	In each step, players can <span class="emph">
+	  change their speed by &plusmn;1</span>,
+	in either <i>x</i> or <i>y</i> direction, or both.
+      </li>
+      <li>
+	There are <span class="emph">obstacles</span> in the course.<br>
+	Moves colliding with them are canceled.
+      </li>
+      <li>
+	Players have <span class="emph">limited fields of vision</span>.<br>
+	Obstacles far away cannot be seen.
+      </li>
+      <li>
+	When players' <span class="emph">moves cross or touch</span>,
+	the move without <span class="emph">priority</span> is canceled.
+	<ul>
+	  <li>
+	    The player behind (with the smaller <i>y</i>-axis) has
+	    the priority.
+	  </li>
+	  <li>
+	    When at the same <i>y</i>-axis, one to the left (with
+	    the smaller <i>x</i>-axis) has the priority.
+	  </li>
+	</ul>
+      </li>
+      <li>
+	Exception: The move should not reach nor go through
+	  the <span class="emph">opponent's original position</span>,
+	  or the move is canceled.
+      </li>
+      <li>
+	<span style="color:blue">Two players will never be on the same position
+	  at the same time</span>.
+      </li>
+      <li>
+	A match comprises of <span class="emph">two races</span>
+	on the same race course, but with the start positions exchanged.<br>
+	One with the shorter <span class="emph">total goal time</span>
+	is the winner.
+      </li>
+    </ul>  
+    <a href="viewer/samplerace.html">Race Example</a>
+  </body>
+</html>

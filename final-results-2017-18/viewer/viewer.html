@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>SamurAI Jockey Race Viewer</title>
+    <style>
+      .bareButton {
+      color: darkgreen;
+      background-color: rgba(0,0,0,0);
+      font-size:25px;
+      border:none;
+      margin: 0;
+      padding:0;
+      }
+      table, th, td {
+      border: 3px solid gray;
+      border-collapse: collapse;
+      }
+      th, td {
+      padding: 10px 30px;
+      }
+    </style>
+    <script src="viewer.js"></script>
+  </head>
+  <body>
+    <div style="font-size:45px; font-weight:bold; height:5%">
+      <center id="matchTitle">
+      </center>
+    </div>
+    <div style="height:10%; width: 100%">
+      <button id="rewind" class="bareButton" onclick="rewind(event)">
+	&crarr;</button>
+      <button id="back" class="bareButton" onclick="stepBackward(event)">
+	&lArr;</button>
+      <button id="startStop" class="bareButton" onclick="startStop(event)">
+	&#9658;</button>
+      <button id="forward" class="bareButton" onclick="stepForward(event)">
+	&rArr;</button>
+      <input type="range" onchange="setPlaybackSpeed(this.value)"
+	     id="speedSlider"
+	     step="8" min="24" max="480" value="92" width="40px">
+      <span id="stepsPerMin">92</span>
+      steps/min
+      <button class="bareButton" onclick="changeFocus('top')">
+	&uArr;</button>
+      <button class="bareButton" onclick="changeFocus('bottom')">
+	&dArr;</button>
+      <button class="bareButton" onclick="changeFocus('red')" style="color:red">
+	&#9650;</button>
+      <button class="bareButton" onclick="changeFocus('blue')" style="color:blue">
+	&#9650;</button>
+      <button id="wider" class="bareButton" onclick="displayWider()">
+	&diams;</button>
+      <button id="narrower" class="bareButton" onclick="displayNarrower()">
+	&hArr;</button>
+      <button id="save" onclick="saveLog()">Save</button>
+      <span id="saveFileForm" style="display:none; margin-top:5px">
+	File name:
+	<input type="text" value="save.racelog" id="saveFileName">
+	<button onclick="doSaveLog(event)">Save</button>
+	<button
+	   onclick=
+	   "document.getElementById('saveFileForm').style.display='none'">
+	  Dismiss
+	</button>
+      </span>
+      <div style="margin-top: 3px">
+	<svg id="progress-bar"
+	     style="left:0; height:20px; width: 100%">
+	</svg>
+      </div>
+    </div>
+    <div>
+      <svg style="position:fixed; left:0; height:85%; width:100%"
+	   onresize="windowResized()" id="svg">
+      </svg>
+    </div>
+    <div
+       id="coverall"
+       style="position:fixed; left:0; top:0; height:100%; width:100%;
+	      font-family:roman; font-size:40px; font-weight:bold;
+	      background-color:white;
+	      display:none">
+      <p style="padding-bottom:10%" />
+      <center>
+	<caption><i>Results</i></caption>
+	<table>
+	  <tr style="color:black; font-style:oblique">
+	    <th>Team</th>
+	    <th>First</th>
+	    <th>Second</th>
+	    <th>Total</th>
+	  </tr>
+	  <tr style="color:red">
+	    <td id=resultName0></td>
+	    <td id=resultTime00></td>
+	    <td id=resultTime01></td>
+	    <td id=resultTotal0></td>
+	  </tr>
+	  <tr style="color:blue">
+	    <td id=resultName1></td>
+	    <td id=resultTime10></td>
+	    <td id=resultTime11></td>
+	    <td id=resultTotal1></td>
+	  </tr>
+	</table>
+	<p style="padding-buttom:10px" />
+	<button style="font-size:40px; font-family:roman; font-weight:bold";
+		onclick="nextRace()">
+	  <i>Next</i>
+	</button>
+      </center>
+    </div>
+    <script>
+      startMatch();
+    </script>
+  </body>
+</html>

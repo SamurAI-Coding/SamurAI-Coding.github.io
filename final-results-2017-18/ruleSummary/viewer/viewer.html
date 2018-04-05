@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>SamurAI Jockey Example Race</title>
+    <script src="sample.racelog" />
+    <script src="viewer.js" />
+  </head>
+  <body>
+    <div style="height:10%; width: 100%">
+      <button id="rewind" onclick="rewind(event)">&lt;&lt;</button>
+      <button id="back" onclick="stepBackward(event)">&lt;</button>
+      <button id="startStop" onclick="startStop(event)">Start</button>
+      <button id="forward" onclick="stepForward(event)">&gt;</button>
+      <input type="range" onchange="setPlaybackSpeed(this.value)"
+	     id="speedSlider"
+	     step="8" min="24" max="480" value="120" width="40px">
+      <span id="stepsPerMin">120</span>
+      steps/min
+      <select name="option" onchange="changeViewOption(this)">
+        <option value="top">chase top</option>
+        <option value="bottom" selected>chase bottom</option>
+        <option value="player0">chase player0</option>
+        <option value="player1">chase player1</option>
+      </select>
+      <button id="help" onclick="location.href='help.html'">Help</button>
+      <button id="save" onclick="saveLog()">Save</button>
+      <div id="saveFileForm" style="display:none; margin-top:5px">
+	File name:
+	<input type="text" value="save.racelog" id="saveFileName">
+	<button onclick="doSaveLog(event)">Save</button>
+	<button
+	   onclick=
+	   "document.getElementById('saveFileForm').style.display='none'">
+	  Dismiss
+	</button>
+      </div>
+      <div id="raceState" style='margin-top:5px'>
+	<img src='clock.png' alt='clock: ' width='20px' height='20px'
+	     style='margin-bottom:-4pt'/>
+	<font color='blue'><span id='stepvalue'> </span></font>
+	<font color='red'><span id='name0'>Player 0</span>
+	  : <span id='position0'></span></font>
+	<font color='blue'><span id='name1'>Player 1</span>
+	  : <span id='position1'></span></font>
+      </div>
+    </div>
+    <div style="margin-top: 3px">
+      <svg id="progress-bar"
+	   style="left:0; height:20px; width: 100%">
+      </svg>
+    </div>
+    <div>
+      <svg style="position:fixed; left:0; height:90%; width:100%"
+	   onresize="windowResized()" id="svg">
+      </svg>
+    </div>
+    <script>
+      addKeyboardListener();
+      startSample();
+    </script>
+  </body>
+</html>
